@@ -11,4 +11,7 @@ Key Question: How can we design a system that allows doctor to automatically cre
 
 ![image](https://github.com/paulAnalytics/genAIforMedicine/assets/158180470/78667eec-de86-450d-b072-fdac2eb698cc)
 
+A video decription of the contents of this file is available on:
 
+https://www.youtube.com/watch?v=rg69mLp5Rlg
+![image](https://github.com/paulAnalytics/genAIforMedicine/assets/158180470/cc117833-c304-4a3a-85a8-95964adb23ae)
